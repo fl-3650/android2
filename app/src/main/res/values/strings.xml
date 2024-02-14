@@ -1,4 +1,4 @@
 <resources>
-    <string name="title" translatable="false">Proj2</string>
+    <string name="title">Proj2</string>
     <string name="hello_world">Hello World!</string>
 </resources>
